@@ -1,1 +1,1 @@
-Student Management\AddUserAdmin.py
+This is student management system. 
